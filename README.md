@@ -1,2 +1,2 @@
 # Neural-Machine-Translation
-Neural machine translation using attention mechanism
+Neural machine translation from English to Spanish using attention mechanism.
