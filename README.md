@@ -7,7 +7,7 @@ Neural machine translation from English to Spanish using attention mechanism and
    ```
 
 ## Files
-- ```enc_dec.py``` : Contains the Encoder and Decoder class defined.
+- ```enc_dec.py``` : Contains the Encoder and Decoder defined class.
 - ```NMT_Traning.ipynb``` : Performs training of the model.
 - ```encoder.h5``` : Trained encoder model.
 - ```decoder.h5``` : Trained decoder model.
