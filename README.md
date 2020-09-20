@@ -1,7 +1,7 @@
 # Neural Machine Translation
 Neural machine translation from English to Spanish using attention mechanism and deployed it using Flask.
 
-```Clone this repository into your local system. Run **app.py**.```
+```Clone this repository into your local system. Run <b>app.py</b>.```
 
 # Files
 - ```enc_dec.py``` : Contains the Encoder and Decoder class defined.
